@@ -3,7 +3,7 @@ MyBooks is a personal library manager that allows users to add, search, view, an
 
 🖥️ GUI Version (main.py)
 
-Desktop application built with Python's tkinter library, with features like list display, pop-up input dialogs, and error messages.
+Desktop app built with Python's tkinter library, with features like list display, pop-up input dialogs, and error messages.
 
 
 💻 CLI Version (console-version.py)
